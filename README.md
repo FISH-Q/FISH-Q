@@ -21,11 +21,11 @@
 <table align="center" style="border-collapse:separate;">
   <tr>
     <td style="background-color:#F8FBE9;border:1px solid #D7EF83;border-radius:16px;padding:26px 30px;">
-      <p style="color:#39461F;font-family:'Trebuchet MS','Segoe UI',Arial,sans-serif;font-size:17px;font-weight:600;line-height:1.8;letter-spacing:0.15px;margin:0;">
-        I'm <b style="color:#6A9418;font-weight:800;">Yuqiang Zhong</b>, a student at
-        <b style="color:#6A9418;font-weight:800;">Zhuhai College of Science and Technology</b>.
-        My interests focus on <b style="color:#6A9418;font-weight:800;">C++ / Qt development</b>
-        and <b style="color:#6A9418;font-weight:800;">computer vision</b>, with an emphasis on
+      <h3>
+        I'm <strong>Yuqiang Zhong</strong>, a student at
+        <strong>Zhuhai College of Science and Technology</strong>.
+        My interests focus on <strong>C++ / Qt development</strong>
+        and <strong>computer vision</strong>, with an emphasis on
         practical software and continuous learning.
       </p>
     </td>
