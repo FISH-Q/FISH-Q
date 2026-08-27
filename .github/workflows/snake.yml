@@ -27,8 +27,9 @@ jobs:
 
       - name: Keep contribution history visible
         run: |
+          sudo chown -R "$(id -u):$(id -g)" dist
           node <<'NODE'
-          const fs = require("node:fs");
+          const fs = require("fs");
 
           const styles = {
             "dist/github-snake.svg": ":root{--c1:#A5C248;--c2:#B9D95C;--c3:#C9E875;--c4:#D7EF83}.c{animation:none!important}",
