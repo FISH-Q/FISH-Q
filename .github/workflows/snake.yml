@@ -20,10 +20,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_SNK_TOKEN || secrets.GITHUB_TOKEN }}
           outputs: |
-            dist/github-snake.svg?color_snake=%231F6FEB
-            dist/github-snake-dark.svg?color_snake=%2360A5FA&palette=github-dark
+            dist/github-snake.svg?color_snake=%235F9E2E
+            dist/github-snake-dark.svg?color_snake=%23D7EF83&palette=github-dark
 
       - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
