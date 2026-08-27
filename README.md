@@ -21,11 +21,11 @@
 <table align="center" style="border-collapse:separate;">
   <tr>
     <td style="background-color:#F8FBE9;border:1px solid #D7EF83;border-radius:16px;padding:26px 30px;">
-      <p style="color:#39461F;font-size:15px;line-height:1.75;margin:0;">
-        I'm <b style="color:#6A9418;">Yuqiang Zhong</b>, a student at
-        <b style="color:#6A9418;">Zhuhai College of Science and Technology</b>.
-        My interests focus on <b style="color:#6A9418;">C++ / Qt development</b>
-        and <b style="color:#6A9418;">computer vision</b>, with an emphasis on
+      <p style="color:#39461F;font-family:'Trebuchet MS','Segoe UI',Arial,sans-serif;font-size:17px;font-weight:600;line-height:1.8;letter-spacing:0.15px;margin:0;">
+        I'm <b style="color:#6A9418;font-weight:800;">Yuqiang Zhong</b>, a student at
+        <b style="color:#6A9418;font-weight:800;">Zhuhai College of Science and Technology</b>.
+        My interests focus on <b style="color:#6A9418;font-weight:800;">C++ / Qt development</b>
+        and <b style="color:#6A9418;font-weight:800;">computer vision</b>, with an emphasis on
         practical software and continuous learning.
       </p>
     </td>
@@ -64,3 +64,4 @@
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/FISH-Q/FISH-Q/output/github-snake.svg" />
   </picture>
 </div>
+
