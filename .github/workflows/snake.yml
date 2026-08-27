@@ -27,8 +27,23 @@ jobs:
 
       - name: Keep contribution history visible
         run: |
-          sed -i 's|</svg>|<style>:root{--c1:#A5C248;--c2:#B9D95C;--c3:#C9E875;--c4:#D7EF83}.c{animation:none!important}</style></svg>|' dist/github-snake.svg
-          sed -i 's|</svg>|<style>:root{--c1:#355C25;--c2:#5F9E2E;--c3:#9BBF3B;--c4:#D7EF83}.c{animation:none!important}</style></svg>|' dist/github-snake-dark.svg
+          node <<'NODE'
+          const fs = require("node:fs");
+
+          const styles = {
+            "dist/github-snake.svg": ":root{--c1:#A5C248;--c2:#B9D95C;--c3:#C9E875;--c4:#D7EF83}.c{animation:none!important}",
+            "dist/github-snake-dark.svg": ":root{--c1:#355C25;--c2:#5F9E2E;--c3:#9BBF3B;--c4:#D7EF83}.c{animation:none!important}"
+          };
+
+          for (const [file, style] of Object.entries(styles)) {
+            const svg = fs.readFileSync(file, "utf8");
+            if (!svg.includes("</svg>")) {
+              throw new Error("Missing SVG closing tag: " + file);
+            }
+            const updated = svg.replace("</svg>", "<style>" + style + "</style></svg>");
+            fs.writeFileSync(file, updated);
+          }
+          NODE
 
       - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
