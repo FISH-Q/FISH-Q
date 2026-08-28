@@ -22,11 +22,8 @@
   <tr>
     <td style="background-color:#F8FBE9;border:1px solid #9CE40D;border-radius:16px;padding:26px 30px;">
       <h3>
-        I'm <strong>Yuqiang Zhong</strong>, a student at
-        <strong>Zhuhai College of Science and Technology</strong>.
-        My interests focus on <strong>C++ / Qt development</strong>
-        and <strong>computer vision</strong>, with an emphasis on
-        practical software and continuous learning.
+        Hi, I’m FISHQ. My research interests include computer vision and audio algorithms & signal processing. 
+        📌 Motto: Courage matters mare than competence.
       </p>
     </td>
   </tr>
