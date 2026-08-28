@@ -5,12 +5,12 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=1000&color=9CE40D&center=true&vCenter=true&width=550&lines=Hi+there%2C+I%27m+FISH-Q;C%2B%2B+%2F+Qt+Developer;Exploring+Computer+Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&pause=1000&color=9CE40D&center=true&vCenter=true&width=550&lines=Hi+there%2C+I%27m+FISH-Q;C%2B%2B+Developer;Exploring+Computer+Vision" alt="Typing SVG" />
   </a>
 
   <br />
   <p align="center">
-    <span style="display:inline-block;background-color:#EFF6DA;border:1px solid #9CE40D;color:#39461F;font-size:13px;font-weight:600;padding:5px 16px;border-radius:999px;">C++ / Qt Developer</span>
+    <span style="display:inline-block;background-color:#EFF6DA;border:1px solid #9CE40D;color:#39461F;font-size:13px;font-weight:600;padding:5px 16px;border-radius:999px;">C++ Developer</span>
   </p>
 </div>
 
@@ -40,12 +40,17 @@
       <img src="https://img.shields.io/badge/C%2B%2B-9CE40D?style=flat-square&logo=cplusplus&logoColor=2E3B22" alt="C++" />
       <img src="https://img.shields.io/badge/Qt-9CE40D?style=flat-square&logo=qt&logoColor=2E3B22" alt="Qt" />
       <br />
+      <img src="https://img.shields.io/badge/FFmpeg-9CE40D?style=flat-square&logo=ffmpeg&logoColor=2E3B22" alt="FFmpeg" />
+      <img src="https://img.shields.io/badge/RK3588-9CE40D?style=flat-square" alt="RK3588" />
+      <br />
       <img src="https://img.shields.io/badge/Git-9CE40D?style=flat-square&logo=git&logoColor=2E3B22" alt="Git" />
     </td>
     <td align="center" style="background-color:#F8FBE9;border:1px solid #9CE40D;border-radius:16px;padding:22px 24px;">
       <p style="color:#6A9418;font-size:12px;font-weight:700;letter-spacing:2px;margin:0 0 14px 0;">COMPUTER VISION</p>
       <img src="https://img.shields.io/badge/OpenCV-9CE40D?style=flat-square&logo=opencv&logoColor=2E3B22" alt="OpenCV" />
       <img src="https://img.shields.io/badge/Algorithms-9CE40D?style=flat-square&logo=thealgorithms&logoColor=2E3B22" alt="Algorithms" />
+      <br />
+      <img src="https://img.shields.io/badge/YOLO-9CE40D?style=flat-square&logo=yolo&logoColor=2E3B22" alt="YOLO" />
     </td>
   </tr>
 </table>
