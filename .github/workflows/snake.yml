@@ -22,8 +22,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GH_SNK_TOKEN || secrets.GITHUB_TOKEN }}
           outputs: |
-            dist/github-snake.svg?color_snake=%235F9E2E
-            dist/github-snake-dark.svg?color_snake=%23D7EF83&palette=github-dark
+            dist/github-snake.svg?color_snake=%2321CFDA
+            dist/github-snake-dark.svg?color_snake=%2321CFDA&palette=github-dark
 
       - name: Keep contribution history visible
         run: |
@@ -32,8 +32,8 @@ jobs:
           const fs = require("fs");
 
           const styles = {
-            "dist/github-snake.svg": ":root{--c1:#A5C248;--c2:#B9D95C;--c3:#C9E875;--c4:#D7EF83}.c{animation:none!important}",
-            "dist/github-snake-dark.svg": ":root{--c1:#355C25;--c2:#5F9E2E;--c3:#9BBF3B;--c4:#D7EF83}.c{animation:none!important}"
+            "dist/github-snake.svg": ":root{--c1:#A5C248;--c2:#B9D95C;--c3:#C9E875;--c4:#9CE40D}.c{animation:none!important}",
+            "dist/github-snake-dark.svg": ":root{--c1:#355C25;--c2:#5F9E2E;--c3:#9BBF3B;--c4:#9CE40D}.c{animation:none!important}"
           };
 
           for (const [file, style] of Object.entries(styles)) {
