@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=9CE40D&height=160&section=header&text=FISH-Q&fontColor=0D1117&fontSize=48" alt="FISH-Q profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=9CE40D&height=160&section=header&text=FISH-Q&fontColor=0D1117&fontSize=48&fontAlignY=30" alt="FISH-Q profile header" />
 </p>
 
 <div align="center">
@@ -87,20 +87,25 @@
 <p align="center">
   <a href="https://github.com/FISH-Q">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FISH-Q&show_icons=true&hide_border=true&border_radius=12&title_color=21CFDA&icon_color=9CE40D&text_color=F8FBE9&bg_color=0D1117&cache_seconds=86400" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FISH-Q&show_icons=true&hide_border=true&border_radius=12&title_color=21CFDA&icon_color=9CE40D&text_color=0D1117&bg_color=F8FBE9&cache_seconds=86400" />
-      <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FISH-Q&show_icons=true&hide_border=true&border_radius=12&title_color=21CFDA&icon_color=9CE40D&text_color=0D1117&bg_color=F8FBE9&cache_seconds=86400" />
-    </picture>
-  </a>
-  <a href="https://github.com/FISH-Q?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FISH-Q&layout=compact&langs_count=6&hide_border=true&border_radius=12&title_color=21CFDA&text_color=F8FBE9&bg_color=0D1117&cache_seconds=86400" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FISH-Q&layout=compact&langs_count=6&hide_border=true&border_radius=12&title_color=21CFDA&text_color=0D1117&bg_color=F8FBE9&cache_seconds=86400" />
-      <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FISH-Q&layout=compact&langs_count=6&hide_border=true&border_radius=12&title_color=21CFDA&text_color=0D1117&bg_color=F8FBE9&cache_seconds=86400" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=FISH-Q&show_icons=true&hide_border=true&border_radius=12&title_color=21CFDA&icon_color=9CE40D&text_color=F8FBE9&bg_color=0D1117&cache_seconds=86400" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=FISH-Q&show_icons=true&hide_border=true&border_radius=12&title_color=21CFDA&icon_color=9CE40D&text_color=0D1117&bg_color=F8FBE9&cache_seconds=86400" />
+      <img height="170" alt="GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FISH-Q&show_icons=true&hide_border=true&border_radius=12&title_color=21CFDA&icon_color=9CE40D&text_color=0D1117&bg_color=F8FBE9&cache_seconds=86400" />
     </picture>
   </a>
 </p>
 
+<table align="center" style="border-collapse:separate;border-spacing:16px;">
+  <tr>
+    <td align="center" style="background-color:#F8FBE9;border:1px solid #9CE40D;border-radius:16px;padding:18px 24px;">
+      <p style="color:#21CFDA;font-size:12px;font-weight:700;letter-spacing:2px;margin:0 0 14px 0;">LANGUAGE FOCUS</p>
+      <img src="https://img.shields.io/badge/C%2B%2B-9CE40D?style=flat-square&logo=cplusplus&logoColor=0D1117" alt="C++" />
+      <img src="https://img.shields.io/badge/Python-9CE40D?style=flat-square&logo=python&logoColor=0D1117" alt="Python" />
+      <br />
+      <img src="https://img.shields.io/badge/Rust-9CE40D?style=flat-square&logo=rust&logoColor=0D1117" alt="Rust" />
+      <img src="https://img.shields.io/badge/Kotlin-9CE40D?style=flat-square&logo=kotlin&logoColor=0D1117" alt="Kotlin" />
+    </td>
+  </tr>
+</table>
 <p align="center" style="margin-top:44px;">
   <span style="display:inline-block;background-color:#9CE40D;color:#0D1117;font-size:13px;font-weight:700;letter-spacing:2px;padding:7px 22px;border-radius:999px;">MY CONTRIBUTION</span>
 </p>
