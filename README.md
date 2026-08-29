@@ -60,27 +60,6 @@
 </table>
 
 <p align="center" style="margin-top:44px;">
-  <span style="display:inline-block;background-color:#9CE40D;color:#0D1117;font-size:13px;font-weight:700;letter-spacing:2px;padding:7px 22px;border-radius:999px;">FEATURED WORK</span>
-</p>
-
-<table align="center" style="border-collapse:separate;border-spacing:16px;">
-  <tr>
-    <td valign="top" width="50%" style="background-color:#F8FBE9;border:1px solid #9CE40D;border-radius:16px;padding:22px 24px;">
-      <p style="color:#21CFDA;font-size:12px;font-weight:700;letter-spacing:2px;margin:0 0 14px 0;">AUDIO / VIDEO</p>
-      <h3 style="color:#0D1117;margin:0 0 10px 0;">FFmpeg Codec Lab</h3>
-      <p style="color:#0D1117;line-height:1.6;">Codec experiments and media pipeline notes with FFmpeg.</p>
-      <a href="https://www.fishq.top/index.php/2025/07/01/ffmpeg/">Read the notes</a>
-    </td>
-    <td valign="top" width="50%" style="background-color:#F8FBE9;border:1px solid #9CE40D;border-radius:16px;padding:22px 24px;">
-      <p style="color:#21CFDA;font-size:12px;font-weight:700;letter-spacing:2px;margin:0 0 14px 0;">COMPUTER GRAPHICS</p>
-      <h3 style="color:#0D1117;margin:0 0 10px 0;">OpenGL Rendering Pipeline</h3>
-      <p style="color:#0D1117;line-height:1.6;">Rendering pipeline notes covering shaders, VAO, and VBO.</p>
-      <a href="https://www.fishq.top/index.php/2025/07/20/openglvao-vbo/">Read the notes</a>
-    </td>
-  </tr>
-</table>
-
-<p align="center" style="margin-top:44px;">
   <span style="display:inline-block;background-color:#9CE40D;color:#0D1117;font-size:13px;font-weight:700;letter-spacing:2px;padding:7px 22px;border-radius:999px;">GITHUB PULSE</span>
 </p>
 
